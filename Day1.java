@@ -35,7 +35,7 @@ public class Solution {
 
         System.out.println(d + d2);
 
-        /* Concatenate and print the String variables on a new line
+        /* Concatenate and print the String variables on a new line;
                   the 's' variable above should be printed first. */
 
         System.out.println(s.concat(s2));
