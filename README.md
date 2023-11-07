@@ -1,4 +1,4 @@
-# HackerRank-30-Days-of-Code in JAVA
+# HackerRank-30-Days-of-Code in Java
 
 Challenges Link: https://www.hackerrank.com/domains/tutorials/30-days-of-code
 
