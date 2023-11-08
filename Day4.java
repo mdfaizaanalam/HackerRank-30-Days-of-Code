@@ -5,9 +5,7 @@ import java.util.*;
 import java.util.Scanner;
 
 public class Solution {
-
     static class Person {
-
         private int age;
 
         public Person(int initialAge) {
