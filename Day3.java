@@ -27,9 +27,7 @@ if(N%2==0)
             System.out.print("Not Weird");
     }
     else
-    
         System.out.print("Weird");
-
         scanner.close();
     }
 }
